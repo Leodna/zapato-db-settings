@@ -1,0 +1,5 @@
+#Ignorar archivo de variables
+.env
+#Ignorar zapatos-data
+zapatosdb-data/
+user_creationscript.sql
